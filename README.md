@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Laxmisaha2099
-- 👀 I’m interested in ..learning python sql R .
+- 👀 I’m interested in ..learning python sql and ML .
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
